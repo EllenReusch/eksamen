@@ -1,0 +1,45 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1em;
+    padding: 0 1em 0 0;
+  }
+  
+  
+  
+  a:link {
+    color: #0A369D;
+  }
+ 
+  a:hover {
+    color: #0A369D;
+  }
+  a:active {
+    color: #0A369D;
+  }
+
+  .logo a:link {
+    color:#BFB4AA;
+  } 
+  .logo a:hover {
+    color:#BFB4AA;
+  } 
+
+  .logo a:active {
+    color: #BFB4AA;
+  }
+
+  
+
+  nav {
+    position: sticky;
+    top: 0;
+  }
+
+  .banner {
+    position: sticky;
+    top: 0;
+  
+  }
+  
