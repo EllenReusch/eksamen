@@ -284,7 +284,8 @@
       height: auto;
       margin-left: 30px;
       padding-bottom: 20px;
-      margin-bottom: 60px;
+      margin-bottom: 30px;
+      margin-top: 15px;
       justify-content: center;
     }
   
@@ -307,7 +308,7 @@
       font-size: 14px;
       margin-right: 2rem;
       margin-left: 2rem;
-      margin-bottom: 10px;
+      margin-bottom: 30px;
     }
   
     .forsidelogo {
