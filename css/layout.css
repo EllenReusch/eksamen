@@ -204,6 +204,9 @@
       margin-bottom: 50px;
       margin-top: 50px;
     }
+    .button_container a:hover {
+      color: #BFB4AA;
+    }
   }
   
   /* 600px er breakpoint for mobil*/
